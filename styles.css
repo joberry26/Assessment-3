@@ -44,3 +44,7 @@ img {
 	color: crimson;
 	font-weight: bold;
 }
+.check {
+	display: flex;
+	flex-wrap: wrap;
+}
