@@ -1,0 +1,22 @@
+How does the internet work?
+
+        The internet is a request based system. Every function or protocol that runs is
+    a request from one computer or network to another. This flow of information is across 
+    the world. 
+        The internet itself is a net within itself. A hub of connection that connects 
+    the devices underneath it. 
+
+
+What happens when you click on a link?
+    https://www.google.com
+
+        In the above link, the https is the communication protocol of the site. This one in particular
+    encrypts the following link and ensures data security over the network.
+        The www stands for World Wide Web. the www is where this information is being
+    accessed from.
+        The google portion is the Domain Name.
+        The .com portion is the Top-level of the Domain.
+        Any text that might follow .com ie .com/mail, .com/maps, etc. are pathways that are being requested
+
+        The protocol is the method of accessing the www and going to the domain specified. From there the request follows
+        the pathway dictated from the remaining elements of the URL. 
